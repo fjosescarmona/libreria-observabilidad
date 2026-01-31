@@ -1,29 +1,26 @@
 ---
 layout: home
-title: Documentación
+title: Librería observabilidad
 ---
 
-# 📚 Documentación Central
+# 📦 Librería observabilidad
 
-Bienvenido. Aquí encontrarás la documentación oficial de mis librerías.
-
----
-
-## 📦 Librerías disponibles
-
-### 🔹 Librería A
-Documentación técnica y guías de uso.
-
-➡️ [Ver documentación de Librería A](/examen-peru/docs/lib-a.html)
+Documentación oficial de **Librería observabilidad**.
 
 ---
 
-### 🔹 Librería B
-Detalles de instalación, API y ejemplos.
+## 🚀 Contenido
 
-➡️ [Ver documentación de Librería B](/examen-peru/docs/lib-b.html)
+- 📘 [Cómo usar la librería](/libreria-observabilidad/docs/como-usar.html)
+- 📘 [Recomendaciones](/libreria-observabilidad/docs/recomendaciones.html)
 
 ---
+
+## 🔗 Repositorios relacionados
+
+- 🏠 **Portal principal**
+  - [Pagina principal](https://fjosescarmona.github.io/examen-peru/)
+
 
 ## ℹ️ Notas
 - Esta documentación se actualiza automáticamente.
